@@ -1,0 +1,409 @@
+{
+  "users": [
+    {
+      "fullName": "Seto Budiawan",
+      "username": "seto",
+      "email": "seto@mail.com",
+      "password": "password123",
+      "id": 1
+    },
+    {
+      "fullName": "Ahmad Reno",
+      "username": "ahmad123",
+      "email": "a_reno@mail.com",
+      "password": "password",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "fullName": "Bill Gates",
+      "username": "bill",
+      "email": "bill@mail.com",
+      "password": "password",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "fullName": "Jane Doe",
+      "username": "jane",
+      "email": "jane@mail.com",
+      "password": "password",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "fullName": "Super Admin",
+      "username": "admin",
+      "email": "admin@mail.com",
+      "password": "password",
+      "role": "admin",
+      "id": 5
+    }
+  ],
+  "transactions": [
+    {
+      "userId": 4,
+      "address": "Jalan Anggur",
+      "recipientName": "",
+      "totalPrice": 1359750,
+      "totalPayment": 1500000,
+      "transactionDate": "10-7-2021",
+      "transactionItems": [
+        {
+          "userId": 4,
+          "productId": 1,
+          "price": 25000,
+          "productName": "Kaos Hitam Polos",
+          "productImage": "https://images.tokopedia.net/img/cache/500-square/product-1/2019/12/13/7227602/7227602_8a532e44-d478-4f7e-93c0-d20055e9e89b_554_554.jpg.webp",
+          "quantity": 7,
+          "id": 1
+        },
+        {
+          "userId": 4,
+          "productId": 11,
+          "price": 350000,
+          "productName": "Celana Jogger Dark Gray",
+          "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/3bbd594e48b17413d683ad271cc4ccf36dbc0323_xxl-1.jpg",
+          "quantity": 2,
+          "id": 2
+        },
+        {
+          "userId": 4,
+          "productId": 18,
+          "price": 420000,
+          "productName": "Black Skinny Jeans",
+          "productImage": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5d%2F0d%2F5d0d93e035dba0a9a40f1c93e35ba0d33ea02822.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jeans_skinny%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "quantity": 1,
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userId": 4,
+      "address": "Jalan Anggur",
+      "recipientName": "",
+      "totalPrice": 1359750,
+      "totalPayment": 1400000,
+      "transactionDate": "10-7-2021",
+      "transactionItems": [
+        {
+          "userId": 4,
+          "productId": 1,
+          "price": 25000,
+          "productName": "Kaos Hitam Polos",
+          "productImage": "https://images.tokopedia.net/img/cache/500-square/product-1/2019/12/13/7227602/7227602_8a532e44-d478-4f7e-93c0-d20055e9e89b_554_554.jpg.webp",
+          "quantity": 7,
+          "id": 1
+        },
+        {
+          "userId": 4,
+          "productId": 11,
+          "price": 350000,
+          "productName": "Celana Jogger Dark Gray",
+          "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/3bbd594e48b17413d683ad271cc4ccf36dbc0323_xxl-1.jpg",
+          "quantity": 2,
+          "id": 2
+        },
+        {
+          "userId": 4,
+          "productId": 18,
+          "price": 420000,
+          "productName": "Black Skinny Jeans",
+          "productImage": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5d%2F0d%2F5d0d93e035dba0a9a40f1c93e35ba0d33ea02822.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jeans_skinny%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "quantity": 1,
+          "id": 3
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userId": 4,
+      "address": "Jalan Apel",
+      "recipientName": "",
+      "totalPrice": 1359750,
+      "totalPayment": 1750000,
+      "transactionDate": "10-7-2021",
+      "transactionItems": [
+        {
+          "userId": 4,
+          "productId": 1,
+          "price": 25000,
+          "productName": "Kaos Hitam Polos",
+          "productImage": "https://images.tokopedia.net/img/cache/500-square/product-1/2019/12/13/7227602/7227602_8a532e44-d478-4f7e-93c0-d20055e9e89b_554_554.jpg.webp",
+          "quantity": 7,
+          "id": 1
+        },
+        {
+          "userId": 4,
+          "productId": 11,
+          "price": 350000,
+          "productName": "Celana Jogger Dark Gray",
+          "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/3bbd594e48b17413d683ad271cc4ccf36dbc0323_xxl-1.jpg",
+          "quantity": 2,
+          "id": 2
+        },
+        {
+          "userId": 4,
+          "productId": 18,
+          "price": 420000,
+          "productName": "Black Skinny Jeans",
+          "productImage": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5d%2F0d%2F5d0d93e035dba0a9a40f1c93e35ba0d33ea02822.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jeans_skinny%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "quantity": 1,
+          "id": 3
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userId": 4,
+      "address": "Jalan Nanas",
+      "recipientName": "",
+      "totalPrice": 52500,
+      "totalPayment": 70000,
+      "transactionDate": "10-7-2021",
+      "transactionItems": [
+        {
+          "userId": 4,
+          "productId": 1,
+          "price": 25000,
+          "productName": "Kaos Hitam Polos",
+          "productImage": "https://images.tokopedia.net/img/cache/500-square/product-1/2019/12/13/7227602/7227602_8a532e44-d478-4f7e-93c0-d20055e9e89b_554_554.jpg.webp",
+          "quantity": 2,
+          "id": 1
+        }
+      ],
+      "id": 4
+    },
+    {
+      "userId": 5,
+      "address": "Jalan Nanas",
+      "recipientName": "AS",
+      "totalPrice": 26250,
+      "totalPayment": 30000,
+      "transactionDate": "7-10-2021",
+      "transactionItems": [
+        {
+          "userId": 5,
+          "productId": 1,
+          "price": 25000,
+          "productName": "Kaos Hitam Polos",
+          "productImage": "https://images.tokopedia.net/img/cache/500-square/product-1/2019/12/13/7227602/7227602_8a532e44-d478-4f7e-93c0-d20055e9e89b_554_554.jpg.webp",
+          "quantity": 1,
+          "id": 3
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "productName": "Kaos Hitam Polos",
+      "price": 25000,
+      "productImage": "https://images.tokopedia.net/img/cache/500-square/product-1/2019/12/13/7227602/7227602_8a532e44-d478-4f7e-93c0-d20055e9e89b_554_554.jpg.webp",
+      "description": "Ini barang bagus loh",
+      "category": "kaos"
+    },
+    {
+      "id": 2,
+      "productName": "Kaos Putih Polos",
+      "price": 23000,
+      "productImage": "https://www.asket.com/imgproxy/e:1/format:jpeg/width:1080/resize:fit/quality:80/plain/https://asket.centracdn.net/client/dynamic/images/2_00d6bb1f5b-asket_tee_white_cart_thumb-original.jpg@jpg",
+      "description": "Ini barang bagus banget loh",
+      "category": "kaos"
+    },
+    {
+      "id": 3,
+      "productName": "Kaos Biru Polos",
+      "price": 23000,
+      "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/d1d6422cf983e912fcf35844ef791148b4034571_xxl-1.jpg",
+      "description": "Round-necked T-shirt in soft cotton jersey.",
+      "category": "kaos"
+    },
+    {
+      "id": 4,
+      "productName": "Kaos Hijau Polos",
+      "price": 23000,
+      "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/dfa5aa69cdfc2efeeaf88589cced5d006578b19f_xxl-1.jpg",
+      "description": "Round-necked T-shirt in soft cotton jersey.",
+      "category": "kaos"
+    },
+    {
+      "id": 5,
+      "productName": "Kaos Pink Polos",
+      "price": 23000,
+      "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/f2c7db75c31311893e546a3ec06e9bbd440b9e82_xxl-1.jpg",
+      "description": "Round-necked T-shirt in soft cotton jersey.",
+      "category": "kaos"
+    },
+    {
+      "id": 6,
+      "productName": "Kaos Navy Polos",
+      "price": 23000,
+      "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/35986529ca3dc88d58695fe1396f909aaf0eea57_xxl-1.jpg",
+      "description": "Round-necked T-shirt in soft cotton jersey.",
+      "category": "kaos"
+    },
+    {
+      "id": 7,
+      "productName": "Kaos Gray Polos",
+      "price": 23000,
+      "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/3ec4e96db1f27e1cf128c0ac288d13cc0dec9024_xxl-1.jpg",
+      "description": "Round-necked T-shirt in soft cotton jersey.",
+      "category": "kaos"
+    },
+    {
+      "id": 8,
+      "productName": "Kaos Ungu Polos",
+      "price": 23000,
+      "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/49e592a3bd21a670a52a3d28d5d83f8850b37902_xxl-1.jpg",
+      "description": "Round-necked T-shirt in soft cotton jersey.",
+      "category": "kaos"
+    },
+    {
+      "id": 9,
+      "productName": "Celana Jogger Hitam",
+      "price": 350000,
+      "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/fe9dd6bf4b93d1465ec773b6617462ff6b5752da_xxl-1.jpg",
+      "description": "Joggers in sweatshirt fabric with an elasticated drawstring waist, zipped side pockets, a low crotch and tapered legs with seams at the knees and ribbed hems.",
+      "category": "celana"
+    },
+    {
+      "id": 10,
+      "productName": "Celana Jogger Gray",
+      "price": 350000,
+      "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/851c94d99369b32d97439196c47acbbc20b9aec6_xxl-1.jpg",
+      "description": "Joggers in sweatshirt fabric with an elasticated drawstring waist, zipped side pockets, a low crotch and tapered legs with seams at the knees and ribbed hems.",
+      "category": "celana"
+    },
+    {
+      "id": 11,
+      "productName": "Celana Jogger Dark Gray",
+      "price": 350000,
+      "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/3bbd594e48b17413d683ad271cc4ccf36dbc0323_xxl-1.jpg",
+      "description": "Joggers in sweatshirt fabric with an elasticated drawstring waist, zipped side pockets, a low crotch and tapered legs with seams at the knees and ribbed hems.",
+      "category": "celana"
+    },
+    {
+      "id": 12,
+      "productName": "Celana Jogger Hijau",
+      "price": 200000,
+      "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/5284ccffa03701c130991367932b957505dae0bb_xxl-1.jpg",
+      "description": "Joggers in sweatshirt fabric with an elasticated drawstring waist, zipped side pockets, a low crotch and tapered legs with seams at the knees and ribbed hems.",
+      "category": "celana"
+    },
+    {
+      "id": 13,
+      "productName": "Celana Jogger Light Gray",
+      "price": 350000,
+      "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/08fd5e5ed97d34707884ed545ae4647f2f814808_xxl-1.jpg",
+      "description": "Joggers in sweatshirt fabric with an elasticated drawstring waist, zipped side pockets, a low crotch and tapered legs with seams at the knees and ribbed hems.",
+      "category": "celana"
+    },
+    {
+      "id": 14,
+      "productName": "Bucket Hat Hitam",
+      "price": 130000,
+      "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/d3c02a301eaf7520a2ea9d11d0f198af4abfe922_xxl-1.jpg",
+      "description": "Bucket hat in woven fabric. Width of brim approx. 6 cm.",
+      "category": "aksesoris"
+    },
+    {
+      "id": 15,
+      "productName": "Ribbed Hat Hitam",
+      "price": 125000,
+      "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/64a66fb4385ba67b2ddb15445a3c4248656f72f2_xxl-1.jpg",
+      "description": "Double-layered hat in a soft rib knit with a sewn-in turn-up at the hem with a small fabric appliqué on the front.",
+      "category": "aksesoris"
+    },
+    {
+      "id": 16,
+      "productName": "Ribbed Hat Gray",
+      "price": 129900,
+      "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/077e6a5cbf2d9d0ddb10beeaf185c0c84a4dfd03_xxl-1.jpg",
+      "description": "Double-layered hat in a soft rib knit with a sewn-in turn-up at the hem with a small fabric appliqué on the front.",
+      "category": "aksesoris"
+    },
+    {
+      "id": 17,
+      "productName": "Ribbed Hat Pink",
+      "price": 125000,
+      "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/a2dfdebe840778cf719ce1efcfcefea959433324_xxl-1.jpg",
+      "description": "Double-layered hat in a soft rib knit with a sewn-in turn-up at the hem with a small fabric appliqué on the front.",
+      "category": "aksesoris"
+    },
+    {
+      "productName": "Black Skinny Jeans",
+      "price": 420000,
+      "productImage": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5d%2F0d%2F5d0d93e035dba0a9a40f1c93e35ba0d33ea02822.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jeans_skinny%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "description": "5-pocket jeans in washed stretch denim with a regular waist, zip fly and button, and skinny legs.",
+      "category": "celana",
+      "id": 18
+    },
+    {
+      "productName": "Dark Denim Jeans",
+      "price": 460000,
+      "productImage": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F36%2F49%2F3649b9506787743b7d4b0e5f8014d13946bf3632.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jeans_slim%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "description": "5-pocket jeans in washed denim with a regular waist, zip fly and slim legs.",
+      "category": "celana",
+      "id": 19
+    }
+  ],
+  "carts": [
+    {
+      "userId": 4,
+      "productId": 8,
+      "price": 23000,
+      "productName": "Kaos Ungu Polos",
+      "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/49e592a3bd21a670a52a3d28d5d83f8850b37902_xxl-1.jpg",
+      "quantity": 2,
+      "id": 1
+    },
+    {
+      "userId": 4,
+      "productId": 16,
+      "price": 129900,
+      "productName": "Ribbed Hat Gray",
+      "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/077e6a5cbf2d9d0ddb10beeaf185c0c84a4dfd03_xxl-1.jpg",
+      "quantity": 1,
+      "id": 2
+    },
+    {
+      "userId": 5,
+      "productId": 16,
+      "price": 129900,
+      "productName": "Ribbed Hat Gray",
+      "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/077e6a5cbf2d9d0ddb10beeaf185c0c84a4dfd03_xxl-1.jpg",
+      "quantity": 2,
+      "id": 3
+    },
+    {
+      "userId": 5,
+      "productId": 18,
+      "price": 420000,
+      "productName": "Black Skinny Jeans",
+      "productImage": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5d%2F0d%2F5d0d93e035dba0a9a40f1c93e35ba0d33ea02822.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jeans_skinny%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "quantity": 1,
+      "id": 4
+    },
+    {
+      "userId": 5,
+      "productId": 6,
+      "price": 23000,
+      "productName": "Kaos Navy Polos",
+      "productImage": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/35986529ca3dc88d58695fe1396f909aaf0eea57_xxl-1.jpg",
+      "quantity": 1,
+      "id": 5
+    },
+    {
+      "userId": 5,
+      "productId": 1,
+      "price": 25000,
+      "productName": "Kaos Hitam Polos",
+      "productImage": "https://images.tokopedia.net/img/cache/500-square/product-1/2019/12/13/7227602/7227602_8a532e44-d478-4f7e-93c0-d20055e9e89b_554_554.jpg.webp",
+      "quantity": 5,
+      "id": 6
+    }
+  ]
+}
